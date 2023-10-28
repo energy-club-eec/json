@@ -1,0 +1,59 @@
+{
+  "event1": {
+    "name": "Huckster",
+    "date": "24-04-2023",
+    "location": "Hi Tech Hall 2, EEC",
+    "short-description": "\"If an opportunity doesn't knock...",
+    "description": "\"If an opportunity doesn't knock, then build a door.\" Are you coming up with incredible business ideas and looking for a platform to showcase them? The Energy Club of EEC heartwarmingly invites you to join their flagship event நெகிழி 4.0 via \"Huckster\".  This pioneering event will motivate and prepare you for the best tomorrow. This enlightening event imparts you with enable new markets to develop in the form of goods, services, technology, promotes innovation, self-reliance and generates employment opportunities. Register right away to seize your chance for a bright future.",
+    "photos": {
+      "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Huckster.jpg"
+    },
+    "btn": "events/huckster.html"
+  },
+  "event2": {
+    "name": "Word Quest",
+    "date": "21-04.2023",
+    "location": "MBA Hall, EEC",
+    "short-description": "\"Life is a puzzle, and ...",
+    "description": "\"Life is a puzzle, and the more you try to solve it, the more interesting it becomes.\" The Energy Club of EEC encourages you to wallow in the flagship event நெகிழி 4.0 via \"Word Quest\". This magnificent event will assist in sharpening your core abilities and making you more attentive! The event comprises two rounds, elimination round and decider round. Prepare to present your problem-solving skills and reserve your seat for a thrilled puzzle event that will tax your wits and leave you wanting more.",
+    "photos": {
+      "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Word_Quest.jpg"
+    },
+    "btn": "events/word-quest.html"
+  },
+  "event3": {
+    "name": "Rally - Awareness Program",
+    "date": "22-04.2023",
+    "location": "Besant Nagar",
+    "short-description": "\"Plastic pollution is a design failure,...",
+    "description": "\"Plastic pollution is a design failure, and it's time for a redesign.\" The Energy Club of EEC conscientiously encourages you all to indulge in \"Rally on Plastic Awareness\"  as a part of its flagship event நெகிழி 4.0. The convenience of a plastic lifestyle is not worth the destruction of our planet. Plastic is not fantastic when it ends up in our oceans. If you don't think plastic pollution is a problem, you're part of the problem. We are drowning in plastic so it's time to swim against the tide.",
+    "photos": {
+      "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Rally_-_Awareness_Program.jpg"
+    },
+    "btn": "events/slytherincurse.html"
+  },
+  "event4": {
+    "name": "Mystify",
+    "date": "20-04-2023",
+    "location": "Hi Tech Hall 2, EEC",
+    "short-description": "\"Thinking requires courage rather than intelligence...",
+    "description": "\"Thinking requires courage rather than intelligence.\" The Energy Club of Easwari Engineering College cordially invites you for a technical buzzer game, Mystify as a part of its flagship event நெகிழி 4.0. It is a technical fun-filled game comprising of brainstorming questions and connecting puzzles.",
+    "photos": {
+      "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Mystify.jpg"
+    },
+    "btn": "events/mystify.html"
+  },
+  "event5": {
+    "name": "Career Pursuit",
+    "date": "25-04-2023",
+    "location": "Hi Tech Hall 2, EEC",
+    "short-description": "\"A dream becomes a goal when actions...",
+    "description": "\"A dream becomes a goal when actions is taken toward its achievement\" Feeling intimated by the placement and interview process? Don't worry we heard you!! The Energy Club of EEC is thrilled to announce \"Career Pursuit\" as a part of its flagship event நெகிழி 4.0. This presents a singular prospect for you to refine your group discourse proficiency and garner invaluable input from seasoned experts in this domain. This forthcoming occasion promises to be enlightening affair for all the aspiring students who are keen on ameliorating their interview aptitude and propelling their professional trajectories forward.",
+
+    "photos": {
+      "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Career_Pursuit.jpg"
+    },
+    "btn": "events/career-pursuit.html"
+  }
+  
+}

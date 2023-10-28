@@ -1,0 +1,24 @@
+{
+  "event1": {
+    "name": "Koilpillai Memorial Higher Secondary School",
+    "date": "24-04-2023",
+    "location": "Hi Tech Hall 2, EEC",
+    "short-description": "\"An Energy  Conservation Awareness...",
+    "description": "\"An Energy  Conservation Awareness Program (ECAP)\" the Energy Club of EEC at Koilpillai Memorial Mariculation Higher Secondary School in Chennai. Office Bearers conducted presentations on energy-efficient technologies to raise awareness among students about energy conservation. ",
+    "photos": {
+      "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Koilpillai_Memorial_Higher_Secondary_School.jpg"
+    },
+    "btn": "events/koilpillai.html"
+  },
+  "event2": {
+    "name": "Sivanthi Matric Higher Secondary School",
+    "date": "21-04.2023",
+    "location": "MBA Hall, EEC",
+    "short-description": "The Energy Club of EEC...",
+    "description": "The Energy Club of EEC conducted an Energy Conservation Awareness Program (ECAP) at Sivanthi Matriculation Higher Secondary School on December 5, 2022. The event aimed to raise awareness among students about energy conservation and their role in shaping a sustainable future. The program encouraged students to actively participate in conserving energy.",
+    "photos": {
+      "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Sivanthi_Matri._Hr._Sec._School.jpg"
+    },
+    "btn": "events/sivanthi.html"
+  }
+}

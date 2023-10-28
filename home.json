@@ -1,0 +1,23 @@
+{
+  "event1": {
+    "name": "Technotsav",
+    "date": "30-01-2023 to 02-02-2023",
+    "location": "Eawari Engineering College",
+    "short-description": "A fusion of technical and non-technical activities aimed at boosting students' technical skills and mental acumen",
+    "description": "\"A fusion of technical and non-technical activities aimed at boosting students' technical skills and mental acumen.",
+    "photos": {
+      "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Technotsav.jpg"
+    },
+    "btn": "Technotsav.html"
+  },
+  "event2": {
+    "name": "NEGIZHI 4.0",
+    "date": "20.05.2023 to 25.05.2023",
+    "location": "Besant Nagar",
+    "short-description": "A event which focusing on \"PLASTIC AWARENESS\" to educate about plastic's harmful environmental impact through engaging events.",
+    "description": "A event which focusing on \"PLASTIC AWARENESS\" to educate about plastic's harmful environmental impact through engaging events.",
+    "photos": {
+      "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Negizhi_4.0.jpg"
+    },
+    "btn": "Negizhi.html"
+  }}
