@@ -1,6 +1,6 @@
 {
     "event1": {
-        "name": "Stellar Sabotage",
+        "name": "Galactic Gambit",
         "date": "30-01-2023",
         "location": "Easwari Engineering College",
         "short-description": "A fun event...",
@@ -8,7 +8,7 @@
         "photos": {
             "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Take-De-Bait.jpg"
         },
-        "btn": "/StellarSabotage",
+        "btn": "/GalacticGambit",
       "rbtn":"/Register"
     },
     "event2": {
