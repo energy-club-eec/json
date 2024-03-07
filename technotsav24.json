@@ -136,8 +136,9 @@ Jayashree.M: 9600143420",
             "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Sherlock_Ohms.jpg"
         },
         "btn": "/Ideathon",
-      "rbtn":"/Register"
-    },
+
+    
+},
 "event6": {
         "name": "Workshop",
         "date": "02-02-2023",
@@ -148,6 +149,5 @@ Jayashree.M: 9600143420",
             "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Sherlock_Ohms.jpg"
         },
         "btn": "/Workshop",
-      "rbtn":"/Register"
     }
 }
