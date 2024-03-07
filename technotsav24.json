@@ -1,49 +1,129 @@
 {
     "event1": {
         "name": "Galactic Gambit",
-        "date": "30-01-2023",
+        "date": "20-03-2024",
         "location": "Easwari Engineering College",
         "short-description": "A fun event...",
-        "description": "A debate competition was held with the topic 'Has technology changed our life for better or worse?'. The event aimed to discuss our dependencies on technology. Ultimately, the team supporting 'Technology made their lives better' emerged victorious.",
+        "description": "It is a technical event where 
+teams participate in two rounds: The first round mirrors the mechanics of Among Us, while the second round involves solving a crossword puzzle. The team with the highest cumulative score across both rounds will be declared as the winner.
+
+
+Rules:
+1. Each team should consist of two members
+2. ⁠The teams will navigate through two rounds of challenges
+3. ⁠Tasks will be divided into technical and non-technical
+4. ⁠Judging will be based on points awarded for completing tasks
+5. ⁠Any malpractice will result in disqualification
+6. ⁠Remaing rules will be told on the day of the event
+
+Note: This event is exclusively for participants from Easwari Engineering College only.
+
+Registration Fees: 
+For Non Members-  Rs. 120/- per team
+For Members- Rs. 90/- per team 
+ 
+Event Coordinators: 
+Anchita N    - 9940697090 
+Kanishka C - 9342045281",
         "photos": {
-            "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Take-De-Bait.jpg"
+            "photo1": "https://ik.imagekit.io/energyclub/Posters/galacticgambit.png"
         },
-        "btn": "/GalacticGambit",
-      "rbtn":"/Register"
+        "btn": "events/GalacticGambit.html",
+
     },
     "event2": {
-        "name": "Treasure hunt",
-        "date": "30.1.2023",
-        "location": "TRP Auditorium, EEC",
-        "short-description": "A seminar titled Energy Auditing...",
-        "description": "A seminar titled <b> Energy Auditing </b> featuring Mr. K. Prabhakaran, Managing Director of Elbound Systems Pvt Ltd, as the speaker. The event's purpose was to educate students about energy auditing's significance and process. The event emphasized the importance of energy conservation from an engineer's perspective.",
+        "name": "Watt Wizardry",
+        "date": "19-03-2024",
+        "location": "OAT, EEC",
+        "short-description": "A team based...",
+        "description": " 
+ Watt Wizardry will be a team-based competition, with each team consisting of three individuals. Teams solve clues, complete tasks, and move forward to the next stage by solving these. The finale round includes multiple-choice questions. Are you ready for the ultimate challenge?
+ 
+Rules:
+    1. Each team will consist of 3 members.
+2. Teams will receive clues and riddles, which will lead them towards the goal.
+3. In order to fetch the next clue, the team must solve the clue in their hands.
+4. The award goes to the team that performs the best.
+5. Further instructions will be given on the day of the event.
+
+Note: It is an Intra college event.
+
+Registration Fees: 
+For Non Members-  Rs.90 /- per team
+For Members- Rs.70 /- per team 
+Each team consists of three people.
+
+Event Coordinators: 
+Emadh Ahamed S :  8056984515
+Suchitra M               :  8637632684",
         "photos": {
-            "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Seminar.jpg"
+            "photo1": "https://ik.imagekit.io/energyclub/Posters/wattwizardy.png"
         },
-        "btn": "/Treasurehunt"
+        "btn": "events/Wattwizardary.html"
     },
     "event3": {
         "name": "Slytherin's Curse",
-        "date": "31.1.2023",
-        "location": "OAT, EEC",
+        "date": "21-03-2024",
+        "location": "EG Hall, EEC",
         "short-description": "A unique technical event aimed...",
-        "description": "A unique technical event aimed to enhance students' technical skills in an engaging and interactive way. Team of two participated, answering questions related to aptitude, technical knowledge, and general knowledge of varying difficulties.",
+        "description": "Four teams will play the game at the same time. One teammate will stand on the board, while the other will be given a set of technical questions. The player on the board moves in accordance with the weightage of the right answer provided by the other player. The first team to reach the goal will be declared as the winner, while the second team will be declared as the runner. The goal is to get into the goal position
+
+Rules:
+1. Each team consists of two members.
+2. One player will be standing on the board other player will be provided with a set of technical questions.
+3. Player will move according to the weightage of the questions answered correctly.
+4. Two lifelines will be provided, from those any one can be used.
+5. The first team reaching the goal is declared the winner.
+6. Additional instructions provided on spot.
+
+Note: It is an Intra college event.
+
+Registration Fees: 
+For Non Members-  Rs. 80/- per team
+For Members- Rs. 60/- per team 
+Each team consists two people.
+
+        
+Event Coordinators: 
+Janani R                 : 9791312476 
+Anirudh Kumar S : 8610157273",
         "photos": {
-            "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Slytherin_s_Curse.jpg"
+            "photo1": "https://ik.imagekit.io/energyclub/Posters/slytherinscurse.png"
         },
-        "btn": "/Slytherins",
-      "rbtn":"/Register"
+        "btn": "events/slytherins.html"
     },
     "event4": {
-        "name": "Paper presentation",
-        "date": "01-02-2023",
-        "location": "Hi Tech Hall 1&2, EEC",
+        "name": "Genesis",
+        "date": "20-03-2024",
+        "location": "Seminar hall, EEC",
         "short-description": "Talent wins games but teamwork...",
-        "description": "Talent wins games but teamwork and intelligence wins championship. The Energy Club graciously invites you all to Trifecta. A plot with 3 exciting games, as a part of our flagship event Technotsav 2023. The preliminary rounds are Cody Cross and Black Out. The final deciding round is Tittle Tattle. A fantabulous trio of events that will make you move around the clock! Participate with your team to enjoy these fun-filled events and win exciting prizes.",
+        "description": "It is a technical event which provides
+participants a platform to showcase their innovative ideas across various domains. It's an unique opportunity to engage with fellow enthusiasts, expand your network, and explore
+the forefront of innovation.
+
+Theme- Any Technical Topic
+
+
+RULES:
+
+1. Team size: 1-3
+2. The PPT slides must range from 10-12 slides.
+3. The team will get 5-6 minutes for a presentation followed by a questionaire which
+lasts for 2 minutes.
+4. Plagiarism will result in immediate disqualification.
+5. Judge's decision is final.
+6. Submission details will be provided after registration.
+
+SUBMISSION DEADLINE: 19/03/2024
+
+
+EVENT COORDINATORS:
+Varsheni.P : 9962135691
+Jayashree.M: 9600143420",
         "photos": {
             "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Trifecta.jpg"
         },
-        "btn": "/Paperpresentation",
+        "btn": "events/genesis.html",
       "rbtn":"/Register"
     },
     "event5": {
