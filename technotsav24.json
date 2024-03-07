@@ -133,9 +133,9 @@ Jayashree.M: 9600143420",
         "short-description": "Today's wastage is tomorrow's shortage...",
         "description": "Today's wastage is tomorrow's shortage. The Energy Club brings to you the anthemic Sherlock Ωhms as a part of its sensational flagship event Technotsav 2023. Let’s watch who can decipher the clues before the time runs out. Experience the electrifying treasure hunt with your crime partners.",
         "photos": {
-            "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Sherlock_Ohms.jpg"
+            "photo1": "https://ik.imagekit.io/energyclub/Posters/ideathon.png"
         },
-        "btn": "/Ideathon",
+        "btn": "events/Ideathon.html"
 
     
 },
@@ -143,11 +143,11 @@ Jayashree.M: 9600143420",
         "name": "Workshop",
         "date": "02-02-2023",
         "location": "Easwari Engineering College",
-        "short-description": "Today's wastage is tomorrow's shortage...",
-        "description": "Today's wastage is tomorrow's shortage. The Energy Club brings to you the anthemic Sherlock Ωhms as a part of its sensational flagship event Technotsav 2023. Let’s watch who can decipher the clues before the time runs out. Experience the electrifying treasure hunt with your crime partners.",
+        "short-description": "Cyber Security Workshop...",
+        "description": "This cybersecurity workshop will be conducted by Red Team Hacker. Explore the nuances of cyber defense through engaging sessions, practical exercises, and expert-led demonstrations covering topics such as threat intelligence, penetration testing, and incident response. Regardless of your level of experience, this event offers invaluable insights to elevate your cybersecurity knowledge.",
         "photos": {
-            "photo1": "https://ik.imagekit.io/energyclubeec/img/event_Sherlock_Ohms.jpg"
+            "photo1": "https://ik.imagekit.io/energyclub/Posters/workshop.png"
         },
-        "btn": "/Workshop",
+        "btn": "events/Workshop.html"
     }
 }
